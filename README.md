@@ -1,16 +1,49 @@
-# onborading_screen
+# 🚀 X-auth.co  
 
-A new Flutter project.
+A complete **Onboarding & Authentication Flow** built for the  
+[Team Orbiq – 2-Day App Dev Challenge](https://web.facebook.com/share/p/16yWuKRbow/)  
 
-## Getting Started
+This project demonstrates a **production-ready authentication system** with clean UI/UX and proper state management using **Cubit (BLoC)**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Project Overview  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**X-auth.co** provides a modern authentication experience featuring:  
+- **Onboarding Screens** – Smooth introduction for new users  
+- **Signup & Login** – Secure email & password inputs with validation  
+- **Forgot & Reset Password** – Simple and secure password recovery  
+- **OTP Verification** – Email/phone verification flow  
+- **State Management** – Efficient app state handling via Cubit  
+- **Clean UI/UX** – Responsive design following the challenge reference  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎥 Demo Video  
+*(Video placeholder – recommended size < 50 MB for smooth sharing)*  
+
+---
+
+## 🛠️ Tech Stack  
+- **Flutter** – Cross-platform mobile development  
+- **Cubit (BLoC)** – Clean state management  
+- **Dart** – Core language  
+- **Material Design** – Modern UI components  
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/x-auth.co.git
+
+# Navigate to the project folder
+cd x-auth.co
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+
